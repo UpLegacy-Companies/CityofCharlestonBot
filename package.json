@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.0.3",
+    "mongoose": "^6.8.3"
+  },
+  "name": "cityofcharlestonbot",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/src/index.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/src/index.js/issues"
+  },
+  "homepage": "https://github.com/src/index.js#readme",
+  "description": ""
+}
